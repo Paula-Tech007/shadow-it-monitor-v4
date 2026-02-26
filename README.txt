@@ -1,4 +1,8 @@
 # 🔐 Shadow IT Monitor v4.0 – Enterprise Dynamic Policy Engine
+![GitHub Repo stars](https://img.shields.io/github/stars/Paula-Tech007/shadow-it-monitor-v4?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Paula-Tech007/shadow-it-monitor-v4)
+![GitHub issues](https://img.shields.io/github/issues/Paula-Tech007/shadow-it-monitor-v4)
+![GitHub license](https://img.shields.io/github/license/Paula-Tech007/shadow-it-monitor-v4)
 
 Sistema automatizado de detecção de Shadow IT baseado em análise de e-mails, scoring dinâmico de risco e políticas corporativas configuráveis via Google Sheets.
 
@@ -175,6 +179,7 @@ https://www.linkedin.com/in/paula-sabino-49830573/
 
 💻 GitHub:  
 https://github.com/Paula-Tech007
+
 
 
 
